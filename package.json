@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-simpleone",
+  "version": "0.1.0",
+  "description": "ESLint config for SimpleOne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SimpleOne",
+    "ITSM",
+    "ESLint",
+    "config"
+  ],
+  "author": "Evgeniy Laskutkin",
+  "license": "MIT"
+}
